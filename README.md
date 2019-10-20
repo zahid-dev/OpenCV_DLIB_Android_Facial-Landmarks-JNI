@@ -3,7 +3,7 @@
 ![ex1](./ex1.jpg)
 ![ex2](./ex2.jpg)
 
-#### Steps
+#### Steps To Build
 
 1. calibrate according orientation, camera index, check [this post](http://zhengrui.github.io/android-coordinates.html).
 
